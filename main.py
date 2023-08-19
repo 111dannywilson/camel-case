@@ -14,7 +14,7 @@ def payload(data: dict, field: str):
 data = {
     "male": True,
     "female": False,
-    "male": True,
+    "other": True,
     "child": False,
 }
 
